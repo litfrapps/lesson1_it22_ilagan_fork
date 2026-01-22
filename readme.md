@@ -1,2 +1,1 @@
-# Starting With Python By Lagnada $ Monet $ Sudario
-
+# Starting With Python By Lagnada $ Monet $ Sudario $ Torralba
